@@ -20,3 +20,8 @@ end
 # }
 
 # student.each {|key,vaue| puts "#{key} - #{vaue}"}
+
+
+
+
+
